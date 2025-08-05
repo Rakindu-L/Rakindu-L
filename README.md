@@ -38,7 +38,7 @@
   <img src="https://cdn.simpleicons.org/vite/646CFF" width="40" alt="Vite" />&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/react/61DAFB" width="40" alt="React" />&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/nodedotjs/339933" width="40" alt="Node.js" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/mongodb/47A248" width="40" alt="MongoDB" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/supabase/47A248" width="40" alt="SuperBase" />&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/firebase/FFCA28" width="40" alt="Firebase" />
 </p>
 
