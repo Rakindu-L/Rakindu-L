@@ -5,7 +5,7 @@
 <ul>
   <li>🌱 Currently exploring: <strong>Robotics, IOT, Digital System Design and Full-Stack</strong></li>
   <li>👯 Open to collaboration on: <strong>IoT Systems, Embedded Projects, and Full-Stack Applications</strong></li>
-  <li>💬 Ask me about: <strong>STM32, Arduino, Embedded Systems, Schematic & CAD Design and Vite + React</strong></li>
+  <li>💬 Ask me about: <strong>STM32, Arduino, Embedded Systems, Schematic & CAD Design </strong></li>
   <li>👨‍💻 My projects live on: <a href="https://github.com/Rakindu-L">@Rakindu-L</a></li>
   <li>⚡ Fun fact: <strong>I build things that connect the digital with the physical world.</strong></li>
 </ul>
