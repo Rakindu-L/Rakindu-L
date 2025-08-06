@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Rakindu Luchitha <img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
-<h3 align="center">An embedded systems and full-stack developer passionate about innovation and real-world tech solutions.</h3>
+<h3 align="center">Robotics & Embedded systems and full-stack developer passionate about innovation and real-world tech solutions.</h3>
 
 
 <ul>
