@@ -20,6 +20,8 @@
   <img src="https://cdn.simpleicons.org/python/3776AB" width="40" alt="Python" />&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="40" alt="JavaScript" />&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/typescript/3178C6" width="40" alt="TypeScript" />
+  <img src="https://cdn.simpleicons.org/latex/008080" width="40" alt="Latex" />
+
 </p>
 
 
@@ -68,10 +70,4 @@
   <a href="mailto:rakindu.paranayapa@gmail.com" target="_blank">
     <img src="https://cdn.simpleicons.org/mailboxdotorg/0078D4" width="40" alt="Email" />
   </a>
-</p>
-
-<hr>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg" alt="snake">
 </p>
